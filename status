@@ -1,0 +1,73 @@
+[33mcommit d2c862a8b07fb9589a1a3599e061dfaf22f5f161[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: txwxkx <txwxkx@gmail.com>
+Date:   Thu Dec 15 13:41:54 2022 +0900
+
+    Add white.txt
+
+[33mcommit 00fe5d4dd066af56869f93354a728f7b00ae100c[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: 7588456 1d17de5
+Author: txwxkx <txwxkx@gmail.com>
+Date:   Thu Dec 15 13:15:26 2022 +0900
+
+    Merge branch 'master' of https://github.com/txwxkx/displaydemo
+
+[33mcommit 758845639742a482bd77767cecfc9167c183bede[m
+Author: txwxkx <txwxkx@gmail.com>
+Date:   Thu Dec 15 13:14:30 2022 +0900
+
+    Add e.txt
+
+[33mcommit c95cc9251dc9417ebc2bfd08bb31dd6ad17b43b4[m
+Author: txwxkx <txwxkx@gmail.com>
+Date:   Thu Dec 15 13:13:08 2022 +0900
+
+    Update d.txt
+
+[33mcommit 1d17de580e26f1061c4a640d36e6ae7a1b2ed386[m
+Author: txwxkx <txwxkx@gmail.com>
+Date:   Thu Dec 15 12:39:38 2022 +0900
+
+    Add d.txt
+
+[33mcommit 4c895319a228837ff5dc50c250378f40e68da7bd[m
+Author: txwxkx <txwxkx@gmail.com>
+Date:   Thu Dec 15 12:38:09 2022 +0900
+
+    ignore aio
+
+[33mcommit 45f9b2e11269a65998688bc3ed978a6e3be9ddcd[m
+Merge: ed6e137 e3ededc
+Author: txwxkx <txwxkx@gmail.com>
+Date:   Thu Dec 15 11:48:03 2022 +0900
+
+    Merge branch 'master' of https://github.com/txwxkx/displaydemo
+
+[33mcommit ed6e137adea6e3fb30a40a50bb923c81ade4b351[m
+Author: txwxkx <txwxkx@gmail.com>
+Date:   Thu Dec 15 11:47:36 2022 +0900
+
+    ignore fruit/*
+
+[33mcommit e3ededc84c22518b6c64d18f349488153c492e66[m
+Author: txwxkx <120324961+txwxkx@users.noreply.github.com>
+Date:   Thu Dec 15 11:46:37 2022 +0900
+
+    Delete tmp directory
+
+[33mcommit 6f7c21d46154295f9573bc89e9f49655dab42ab7[m
+Author: txwxkx <txwxkx@gmail.com>
+Date:   Thu Dec 15 11:46:03 2022 +0900
+
+    ignore tmp/*
+
+[33mcommit 9b5698aee37de6b40125668f3dad1f22220597dd[m
+Author: txwxkx <txwxkx@gmail.com>
+Date:   Thu Dec 15 11:45:15 2022 +0900
+
+    ignore temp/*
+
+[33mcommit ccec049dbc7cbb46159cf23bef52e543626e7162[m
+Author: txwxkx <txwxkx@gmail.com>
+Date:   Thu Dec 15 11:41:56 2022 +0900
+
+    ignore red.txt
